@@ -1,4 +1,6 @@
 # chip8
+I wrote this a couple of years ago, and it's in an account which I cannot gain access to, so I guess I'll just have to fork it.
+
 Chip 8 interpreter, written in C and SDL. 
 
 Requires SDL2. If you don't have libsdl copied to C:Windows\System, then you'll need to include libsdl.dll in the project directory.
